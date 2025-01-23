@@ -1,10 +1,12 @@
 //Lab01 Java file
 // Sample Java file
+// Edit made by KwadwoAntwi-Adarkwah_230165858
 void testMethod1()
   {
   //First command x = y + z
   //Second commnad print(x)
 
+  
 
   //Last line print('Good bye')
 }
